@@ -1,0 +1,8 @@
+a.js-store-prod-btn.t-store__prod-popup__btn_disabled span:after {
+    content: "Этот подарок уже выбрали";
+    font-size: 8px;
+}
+
+a.js-store-prod-btn.t-store__prod-popup__btn_disabled span {
+    font-size: 0px;
+}
